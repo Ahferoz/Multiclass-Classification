@@ -62,6 +62,6 @@ We have used Music Genre Data for Multiclass classification .Here you can learn 
   
   We have done oversampling of class 2 and class 8 because of low score these classes.
    
- ## Final Model: Random Forest with CV=
+ ## Final Model: Random Forest with CV=5
  
  we have got mean F1-macro scrore=0.76
